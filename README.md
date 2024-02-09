@@ -2,6 +2,12 @@ dSkullz collection was born from my love for art about Skulls. This collection h
 
 Another utility will be revealed soon. 
 
+Current status : 
+
+As of February 9, 2024, Reservation phase closes and 21 NFA were reserved, paid and sent to their owner.
+
+Public sale starts February 9, 2024 and will last one week. Each NFA costs 5.5 DERO. No limit per wallet.
+
 Please find below the SCIDs for each NFA:
 
 dSkull#1	->	eb9b1be64e4bdaeab0de2b68061bb4937701f702537c220eb45bfc63cdfc9af3
