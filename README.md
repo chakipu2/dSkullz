@@ -1,6 +1,6 @@
-dSkullz collection was born from my love for art about Skulls
-This collection has a supply of 27 Non Fungible Assets minted as per Artificer standard.
-Each dSkullz can be used as an avatar in dReams dApp (kudos to SixOfClubs)
+dSkullz collection was born from my love for art about Skulls. This collection has a supply of 27 Non Fungible Assets minted as per Artificer standard. Each dSkullz can be used as an avatar in dReams dApp (kudos to SixOfClubs). dReams dApp can be found on https://dreamdapps.io
+
+Another utility will be revealed soon. 
 
 Please find below the SCIDs for each NFA:
 
